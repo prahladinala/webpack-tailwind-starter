@@ -1,6 +1,4 @@
-**[# webpack-tailwind-starter
-Tailwind Starter Setup using Tailwind CLI and Webpack
-](https://github.com/prahladinala/webpack-tailwind-starter)**# Webpack & Tailwind Starter
+# Webpack & Tailwind Starter
 
 Build apps with Webpack and use Tailwind CSS
 
